@@ -1,5 +1,5 @@
 
-INSERT INTO users(username, email, password, phone_number, is_business, is_artist, is_venue, is_personal) VALUES
+INSERT INTO users(username, email, password, phone_number, is_business, is_artist, is_venue_owner, is_personal) VALUES
 ('Monica', 'monica@gmail.com', 'monica123', 12345678, true, true, false, false),
 ('Trisha', 'trisha@gmail.com', 'trisha123', 12345678, true, false, true, false),
 ('Wendy', 'wendy@gmail.com', 'wendy123', 12345678, false, false, false, true ),
